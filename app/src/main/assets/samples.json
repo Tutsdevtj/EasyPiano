@@ -1,0 +1,812 @@
+[
+  {
+    "path": "samples/30_0.ogg",
+    "midi": 30,
+    "layer": 0,
+    "rootHz": 45.96907627,
+    "nominalHz": 46.24930284,
+    "correctionCents": 10.5215,
+    "sha256": "57f210c0d0c3e53000d5b21eb6ca2c17e0c8389b1b6abd43359206e2626152d7",
+    "duration": 23.256
+  },
+  {
+    "path": "samples/33_0.ogg",
+    "midi": 33,
+    "layer": 0,
+    "rootHz": 54.80900012,
+    "nominalHz": 55.0,
+    "correctionCents": 6.0226,
+    "sha256": "71aed5898da24a8059ce73206299281d0078ddcd461f5ecd7afaee3d5ec2b9d0",
+    "duration": 19.766
+  },
+  {
+    "path": "samples/36_0.ogg",
+    "midi": 36,
+    "layer": 0,
+    "rootHz": 64.97085979,
+    "nominalHz": 65.40639133,
+    "correctionCents": 11.5666,
+    "sha256": "53a4dc4e0a11b99040065c7908a6e146c5dc51d564a57bf4233523f6902a751d",
+    "duration": 19.718
+  },
+  {
+    "path": "samples/39_0.ogg",
+    "midi": 39,
+    "layer": 0,
+    "rootHz": 77.26943771,
+    "nominalHz": 77.78174593,
+    "correctionCents": 11.4405,
+    "sha256": "3e85b81936ac5aaab445ad7ce5c85cd8522ec33efc7ac89c2be997cc6185cdc5",
+    "duration": 22.238
+  },
+  {
+    "path": "samples/42_0.ogg",
+    "midi": 42,
+    "layer": 0,
+    "rootHz": 92.21794527,
+    "nominalHz": 92.49860568,
+    "correctionCents": 5.2609,
+    "sha256": "c010d5cc67a54f8d66aa8eb167b442358575560bd7528922c2d04b7afdefb6d8",
+    "duration": 19.514
+  },
+  {
+    "path": "samples/45_0.ogg",
+    "midi": 45,
+    "layer": 0,
+    "rootHz": 109.57370641,
+    "nominalHz": 110.0,
+    "correctionCents": 6.7223,
+    "sha256": "81d7ec03975f55d21e94934ed86a67cdae4b2e40eb8ee3dff7f039b8ee93ab6a",
+    "duration": 16.201
+  },
+  {
+    "path": "samples/48_0.ogg",
+    "midi": 48,
+    "layer": 0,
+    "rootHz": 130.40356617,
+    "nominalHz": 130.81278265,
+    "correctionCents": 5.4242,
+    "sha256": "5850772fd961cb7fbc067c8f16308914f1759f5bf073c0812f95d420831797ef",
+    "duration": 15.865
+  },
+  {
+    "path": "samples/51_0.ogg",
+    "midi": 51,
+    "layer": 0,
+    "rootHz": 155.41130996,
+    "nominalHz": 155.56349186,
+    "correctionCents": 1.6944,
+    "sha256": "c22f685ee8cad26c27616a5e7e0a3b1dd6be79da478a51e1e62be64c7adc0d1c",
+    "duration": 15.929
+  },
+  {
+    "path": "samples/54_0.ogg",
+    "midi": 54,
+    "layer": 0,
+    "rootHz": 184.35502521,
+    "nominalHz": 184.99721136,
+    "correctionCents": 6.0201,
+    "sha256": "31b539dbd1424551550ef2688a3afb339679aaf419f8578f7380cd9463605192",
+    "duration": 16.079
+  },
+  {
+    "path": "samples/57_0.ogg",
+    "midi": 57,
+    "layer": 0,
+    "rootHz": 220.13327675,
+    "nominalHz": 220.0,
+    "correctionCents": -1.0485,
+    "sha256": "1b9c6b14dc5dd569bce990de5de149d2cb4b0cddb34f517f66f89d102a18d414",
+    "duration": 15.584
+  },
+  {
+    "path": "samples/60_0.ogg",
+    "midi": 60,
+    "layer": 0,
+    "rootHz": 261.51741938,
+    "nominalHz": 261.6255653,
+    "correctionCents": 0.7158,
+    "sha256": "c1b321238e833978f1b1e8a4e67e99092a26e1877f296bceaf17420ef11afd66",
+    "duration": 15.731
+  },
+  {
+    "path": "samples/63_0.ogg",
+    "midi": 63,
+    "layer": 0,
+    "rootHz": 311.34973857,
+    "nominalHz": 311.12698372,
+    "correctionCents": -1.2391,
+    "sha256": "4d99ad68de30707cc13ce044879c60a5822be9137bce50872b7e7955bc589a94",
+    "duration": 15.143
+  },
+  {
+    "path": "samples/66_0.ogg",
+    "midi": 66,
+    "layer": 0,
+    "rootHz": 369.30865479,
+    "nominalHz": 369.99442271,
+    "correctionCents": 3.2117,
+    "sha256": "e6772c3053a2ef32e03aa13843de6b070dabfcb9e002f13b963a7aeb2323d026",
+    "duration": 13.138
+  },
+  {
+    "path": "samples/69_0.ogg",
+    "midi": 69,
+    "layer": 0,
+    "rootHz": 440.15003549,
+    "nominalHz": 440.0,
+    "correctionCents": -0.5902,
+    "sha256": "7539da664e02943f8600b6f2b2f47fb82214235b8cde797f801ad4c49aa8812f",
+    "duration": 13.629
+  },
+  {
+    "path": "samples/72_0.ogg",
+    "midi": 72,
+    "layer": 0,
+    "rootHz": 524.41657934,
+    "nominalHz": 523.2511306,
+    "correctionCents": -3.8517,
+    "sha256": "a8d69aeb9f444c2fd118eed1349d5c8dc8433693eec91c33ca49287f1dfaaf25",
+    "duration": 15.334
+  },
+  {
+    "path": "samples/75_0.ogg",
+    "midi": 75,
+    "layer": 0,
+    "rootHz": 623.26103858,
+    "nominalHz": 622.25396744,
+    "correctionCents": -2.7996,
+    "sha256": "9ef915e99fee990a691434a323f8a44c7ce34f39862ec97d02e36e94c16b9bb2",
+    "duration": 12.976
+  },
+  {
+    "path": "samples/78_0.ogg",
+    "midi": 78,
+    "layer": 0,
+    "rootHz": 741.20093726,
+    "nominalHz": 739.98884542,
+    "correctionCents": -2.8334,
+    "sha256": "4f528760a95f55136724a9dadedd14e3905bb16f18d1aad82a41488e8af4b0da",
+    "duration": 11.638
+  },
+  {
+    "path": "samples/81_0.ogg",
+    "midi": 81,
+    "layer": 0,
+    "rootHz": 883.03739934,
+    "nominalHz": 880.0,
+    "correctionCents": -5.9652,
+    "sha256": "f1d59a99b978db2df1d70b4eec24fb58889ec34f8a093e1d29444dc5342ed8d8",
+    "duration": 6.866
+  },
+  {
+    "path": "samples/84_0.ogg",
+    "midi": 84,
+    "layer": 0,
+    "rootHz": 1051.25580689,
+    "nominalHz": 1046.5022612,
+    "correctionCents": -7.846,
+    "sha256": "1ce5458c5ec6e2d7ff20579c065857e9ccf461b8a357defc3247f43800f22cf9",
+    "duration": 5.448
+  },
+  {
+    "path": "samples/87_0.ogg",
+    "midi": 87,
+    "layer": 0,
+    "rootHz": 1253.1840144,
+    "nominalHz": 1244.50793489,
+    "correctionCents": -12.0274,
+    "sha256": "4d9c03e57187fbb5f19223ef62279293f7cad151681af70017f13d50b75c9128",
+    "duration": 6.571
+  },
+  {
+    "path": "samples/90_0.ogg",
+    "midi": 90,
+    "layer": 0,
+    "rootHz": 1491.95380154,
+    "nominalHz": 1479.97769085,
+    "correctionCents": -13.9529,
+    "sha256": "ec2f8a04759b5b87315e5c828c0625409cdef73a8628217e06a4970ada02d39e",
+    "duration": 5.537
+  },
+  {
+    "path": "samples/93_0.ogg",
+    "midi": 93,
+    "layer": 0,
+    "rootHz": 1772.74825082,
+    "nominalHz": 1760.0,
+    "correctionCents": -12.4947,
+    "sha256": "7adb30ce7956d167e6358f60ea8d0121d111ac34344ff6189d40f585060c332a",
+    "duration": 6.343
+  },
+  {
+    "path": "samples/96_0.ogg",
+    "midi": 96,
+    "layer": 0,
+    "rootHz": 2120.62436755,
+    "nominalHz": 2093.0045224,
+    "correctionCents": -22.6964,
+    "sha256": "a93c8c2b145b4fa6587ab0e38449cd80622c741653530c2e0819c3b7c79cf007",
+    "duration": 4.059
+  },
+  {
+    "path": "samples/99_0.ogg",
+    "midi": 99,
+    "layer": 0,
+    "rootHz": 2516.92640889,
+    "nominalHz": 2489.01586978,
+    "correctionCents": -19.3051,
+    "sha256": "e8d9b6a463939b2e6564fb757a1bb11dfd4a2b2b3944a23932cd9ce73063f26f",
+    "duration": 4.832
+  },
+  {
+    "path": "samples/102_0.ogg",
+    "midi": 102,
+    "layer": 0,
+    "rootHz": 3007.45759664,
+    "nominalHz": 2959.95538169,
+    "correctionCents": -27.5628,
+    "sha256": "e7f521367d7f3be170e30caabb027a0733a9e2cb623b3d03eb7b48ad9febdf22",
+    "duration": 4.761
+  },
+  {
+    "path": "samples/105_0.ogg",
+    "midi": 105,
+    "layer": 0,
+    "rootHz": 3599.14024994,
+    "nominalHz": 3520.0,
+    "correctionCents": -38.4923,
+    "sha256": "77bc8dda111f1570a3f1f0a8997650403748a65a734c55f3aadaf9aae9d21ee5",
+    "duration": 3.86
+  },
+  {
+    "path": "samples/108_0.ogg",
+    "midi": 108,
+    "layer": 0,
+    "rootHz": 4433.65574985,
+    "nominalHz": 4186.00904481,
+    "correctionCents": -99.5056,
+    "sha256": "327b8e69354531656c78b1ae10223f190975ffe73f035473fa1372226f6d35cf",
+    "duration": 2.811
+  },
+  {
+    "path": "samples/30_1.ogg",
+    "midi": 30,
+    "layer": 1,
+    "rootHz": 45.98641534,
+    "nominalHz": 46.24930284,
+    "correctionCents": 9.8687,
+    "sha256": "57f0e443855f826642f5b66e3bb7a87eeb2b3d5ee510eeaf0de72cb7589fe073",
+    "duration": 23.307
+  },
+  {
+    "path": "samples/33_1.ogg",
+    "midi": 33,
+    "layer": 1,
+    "rootHz": 54.69297139,
+    "nominalHz": 55.0,
+    "correctionCents": 9.6914,
+    "sha256": "a09476fff05cd8cf426ea6875028c90cb82e501534c7a40557dbeedc5a8502d2",
+    "duration": 23.27
+  },
+  {
+    "path": "samples/36_1.ogg",
+    "midi": 36,
+    "layer": 1,
+    "rootHz": 64.97173374,
+    "nominalHz": 65.40639133,
+    "correctionCents": 11.5433,
+    "sha256": "bf6a89e08769aebf3bbc029286ac95d680036e9af6cb49194e0986a7566fb29c",
+    "duration": 22.283
+  },
+  {
+    "path": "samples/39_1.ogg",
+    "midi": 39,
+    "layer": 1,
+    "rootHz": 77.26837418,
+    "nominalHz": 77.78174593,
+    "correctionCents": 11.4643,
+    "sha256": "dfc95352b62918776284905185ab451e9893140593f840482faaa61d114549d4",
+    "duration": 22.109
+  },
+  {
+    "path": "samples/42_1.ogg",
+    "midi": 42,
+    "layer": 1,
+    "rootHz": 92.21841174,
+    "nominalHz": 92.49860568,
+    "correctionCents": 5.2522,
+    "sha256": "9dfbe357bf397faca2db0c7d52d34c8d3de6d90c35e6535136e479bd10b5735b",
+    "duration": 20.454
+  },
+  {
+    "path": "samples/45_1.ogg",
+    "midi": 45,
+    "layer": 1,
+    "rootHz": 109.57649766,
+    "nominalHz": 110.0,
+    "correctionCents": 6.6782,
+    "sha256": "0f513540e32fe27e6f196ae15ec3643734ccd373885e261e2d5933b294880b98",
+    "duration": 16.206
+  },
+  {
+    "path": "samples/48_1.ogg",
+    "midi": 48,
+    "layer": 1,
+    "rootHz": 130.34043154,
+    "nominalHz": 130.81278265,
+    "correctionCents": 6.2626,
+    "sha256": "bc49b92c5f217a4585dc4a997a46cd552d78edb3b4f5ed3f912e7c29975877b4",
+    "duration": 16.079
+  },
+  {
+    "path": "samples/51_1.ogg",
+    "midi": 51,
+    "layer": 1,
+    "rootHz": 155.41331021,
+    "nominalHz": 155.56349186,
+    "correctionCents": 1.6721,
+    "sha256": "f12e97a06ae7b1cf74e058d46308ea62f454195d8cb34627cf354715d2d50b0d",
+    "duration": 16.024
+  },
+  {
+    "path": "samples/54_1.ogg",
+    "midi": 54,
+    "layer": 1,
+    "rootHz": 184.4127691,
+    "nominalHz": 184.99721136,
+    "correctionCents": 5.478,
+    "sha256": "70db5e4d0ee99b7b94827b3c6f3bcf8c90ae2d0c78de5d752041a1e2d3e0c1b0",
+    "duration": 16.212
+  },
+  {
+    "path": "samples/57_1.ogg",
+    "midi": 57,
+    "layer": 1,
+    "rootHz": 220.11827148,
+    "nominalHz": 220.0,
+    "correctionCents": -0.9305,
+    "sha256": "5fe152d748b5d3c0ce9b89d6675ca60f87c712032bf631ae00013c071e328072",
+    "duration": 15.661
+  },
+  {
+    "path": "samples/60_1.ogg",
+    "midi": 60,
+    "layer": 1,
+    "rootHz": 261.48443579,
+    "nominalHz": 261.6255653,
+    "correctionCents": 0.9341,
+    "sha256": "eee01dec3198522a97ef1ee7b76847c862a8e746529c99429804b40c8098f777",
+    "duration": 15.685
+  },
+  {
+    "path": "samples/63_1.ogg",
+    "midi": 63,
+    "layer": 1,
+    "rootHz": 311.34157718,
+    "nominalHz": 311.12698372,
+    "correctionCents": -1.1937,
+    "sha256": "504633a7c996e723deda0509110abd1330b66b8ab7923fccbf308e20fd395f32",
+    "duration": 15.032
+  },
+  {
+    "path": "samples/66_1.ogg",
+    "midi": 66,
+    "layer": 1,
+    "rootHz": 369.30001165,
+    "nominalHz": 369.99442271,
+    "correctionCents": 3.2523,
+    "sha256": "13f4d03243985486e28a709042b20294c94fb6d0b630c20a773d00ab036f5b1a",
+    "duration": 14.803
+  },
+  {
+    "path": "samples/69_1.ogg",
+    "midi": 69,
+    "layer": 1,
+    "rootHz": 440.10803147,
+    "nominalHz": 440.0,
+    "correctionCents": -0.425,
+    "sha256": "a54b68bbe2a75f8bd16a77d566a2605f4f4e86a10296e4b9c1e438e1a5af32ef",
+    "duration": 13.549
+  },
+  {
+    "path": "samples/72_1.ogg",
+    "midi": 72,
+    "layer": 1,
+    "rootHz": 524.41075629,
+    "nominalHz": 523.2511306,
+    "correctionCents": -3.8325,
+    "sha256": "eb45490dc45681f4d29763fddf55a187ee3594c3c34184416eb13b112a52cb57",
+    "duration": 15.776
+  },
+  {
+    "path": "samples/75_1.ogg",
+    "midi": 75,
+    "layer": 1,
+    "rootHz": 623.24358891,
+    "nominalHz": 622.25396744,
+    "correctionCents": -2.7511,
+    "sha256": "0d83879b9788322055a07a4b6d18799b6bbe9830907587fbb0698c07eb8d3d01",
+    "duration": 13.152
+  },
+  {
+    "path": "samples/78_1.ogg",
+    "midi": 78,
+    "layer": 1,
+    "rootHz": 741.29650735,
+    "nominalHz": 739.98884542,
+    "correctionCents": -3.0566,
+    "sha256": "a450a36ec9dddb68ac7a0aac888c15df3d28e016e4fe8ce8e344125d034d9dc0",
+    "duration": 11.996
+  },
+  {
+    "path": "samples/81_1.ogg",
+    "midi": 81,
+    "layer": 1,
+    "rootHz": 882.7072948,
+    "nominalHz": 880.0,
+    "correctionCents": -5.3179,
+    "sha256": "f319f270f22644fd0724c323f3e2d4f148f2a9c93e8ffa758c72733f58842743",
+    "duration": 10.497
+  },
+  {
+    "path": "samples/84_1.ogg",
+    "midi": 84,
+    "layer": 1,
+    "rootHz": 1051.25556131,
+    "nominalHz": 1046.5022612,
+    "correctionCents": -7.8456,
+    "sha256": "9d2b8a98c4fceb132fd4a3fa1f2a4befe89336f2822f308105bff9c02024a1c8",
+    "duration": 6.07
+  },
+  {
+    "path": "samples/87_1.ogg",
+    "midi": 87,
+    "layer": 1,
+    "rootHz": 1252.69979222,
+    "nominalHz": 1244.50793489,
+    "correctionCents": -11.3583,
+    "sha256": "72863e2b8c822ee709ddeb58ed41d1ac75ebbf432d4703f5ea1a48435781e739",
+    "duration": 6.63
+  },
+  {
+    "path": "samples/90_1.ogg",
+    "midi": 90,
+    "layer": 1,
+    "rootHz": 1491.72615241,
+    "nominalHz": 1479.97769085,
+    "correctionCents": -13.6887,
+    "sha256": "cbe6c2e187f65efdd730a4e58d969d7d7639df4aa2ac262270351aebb3ae2372",
+    "duration": 5.859
+  },
+  {
+    "path": "samples/93_1.ogg",
+    "midi": 93,
+    "layer": 1,
+    "rootHz": 1771.52730693,
+    "nominalHz": 1760.0,
+    "correctionCents": -11.3019,
+    "sha256": "7992301c4b675cb98c52ac6dd2b393d88fdfb99350cf7a906a586bea2ffb4763",
+    "duration": 6.716
+  },
+  {
+    "path": "samples/96_1.ogg",
+    "midi": 96,
+    "layer": 1,
+    "rootHz": 2120.35212074,
+    "nominalHz": 2093.0045224,
+    "correctionCents": -22.4741,
+    "sha256": "2f09acaede168811d3dbf4f546f259479bcade20e9b2585066f9d794929e74a4",
+    "duration": 4.088
+  },
+  {
+    "path": "samples/99_1.ogg",
+    "midi": 99,
+    "layer": 1,
+    "rootHz": 2515.96738379,
+    "nominalHz": 2489.01586978,
+    "correctionCents": -18.6453,
+    "sha256": "8e7859ed7c55d397f64768c4f9224a99b65572adf54e18ad6580051c1ae970f9",
+    "duration": 4.788
+  },
+  {
+    "path": "samples/102_1.ogg",
+    "midi": 102,
+    "layer": 1,
+    "rootHz": 3006.94155318,
+    "nominalHz": 2959.95538169,
+    "correctionCents": -27.2657,
+    "sha256": "84006e76724e1ae97356f389953fa51ec3e93c42ad5f5d08094452a9f358a818",
+    "duration": 4.467
+  },
+  {
+    "path": "samples/105_1.ogg",
+    "midi": 105,
+    "layer": 1,
+    "rootHz": 3598.82303505,
+    "nominalHz": 3520.0,
+    "correctionCents": -38.3397,
+    "sha256": "6928204b7afca78dc2b210d07101e670a394594378026f139317d3e7638e3bf0",
+    "duration": 3.655
+  },
+  {
+    "path": "samples/108_1.ogg",
+    "midi": 108,
+    "layer": 1,
+    "rootHz": 4433.41011106,
+    "nominalHz": 4186.00904481,
+    "correctionCents": -99.4097,
+    "sha256": "317104f5ffac19f5295fccd49a0e24529cef6cf5fe9e6f503c365a7842ea1c42",
+    "duration": 3.839
+  },
+  {
+    "path": "samples/30_2.ogg",
+    "midi": 30,
+    "layer": 2,
+    "rootHz": 45.99129858,
+    "nominalHz": 46.24930284,
+    "correctionCents": 9.6848,
+    "sha256": "42302b4974eb63d92f8a193af1478fcbe95202758e54150d1fc0ce0beed726d7",
+    "duration": 23.324
+  },
+  {
+    "path": "samples/33_2.ogg",
+    "midi": 33,
+    "layer": 2,
+    "rootHz": 54.73067517,
+    "nominalHz": 55.0,
+    "correctionCents": 8.4984,
+    "sha256": "2fa991f5b94e6ca0c73e07b0a89ad6ac471c2fad2637165d3d585a122a146e43",
+    "duration": 23.412
+  },
+  {
+    "path": "samples/36_2.ogg",
+    "midi": 36,
+    "layer": 2,
+    "rootHz": 64.96774059,
+    "nominalHz": 65.40639133,
+    "correctionCents": 11.6497,
+    "sha256": "aeb4f1388def2144262de8261565872228af5e17057bd4117a9c43408de1d248",
+    "duration": 22.323
+  },
+  {
+    "path": "samples/39_2.ogg",
+    "midi": 39,
+    "layer": 2,
+    "rootHz": 77.27234009,
+    "nominalHz": 77.78174593,
+    "correctionCents": 11.3754,
+    "sha256": "d5d4a7fb4c45279b927874a8df33193efe05bdb79577306bbcf58642abdde462",
+    "duration": 22.391
+  },
+  {
+    "path": "samples/42_2.ogg",
+    "midi": 42,
+    "layer": 2,
+    "rootHz": 92.21653513,
+    "nominalHz": 92.49860568,
+    "correctionCents": 5.2874,
+    "sha256": "809a4459d4b8b9d33349adfa09357ee567b059d8c38419bc84b0fe87e52527eb",
+    "duration": 20.369
+  },
+  {
+    "path": "samples/45_2.ogg",
+    "midi": 45,
+    "layer": 2,
+    "rootHz": 109.57475758,
+    "nominalHz": 110.0,
+    "correctionCents": 6.7056,
+    "sha256": "12116c8b8f5c80eaf752698289971972579927b45405a7b129654366a04f191b",
+    "duration": 16.264
+  },
+  {
+    "path": "samples/48_2.ogg",
+    "midi": 48,
+    "layer": 2,
+    "rootHz": 130.37381625,
+    "nominalHz": 130.81278265,
+    "correctionCents": 5.8192,
+    "sha256": "5a43202d627eebdf228b6ca56b806138ee8b39c1fd418ae5c6ad2405ccb47f6f",
+    "duration": 16.27
+  },
+  {
+    "path": "samples/51_2.ogg",
+    "midi": 51,
+    "layer": 2,
+    "rootHz": 155.41364806,
+    "nominalHz": 155.56349186,
+    "correctionCents": 1.6684,
+    "sha256": "de95634377d35db05cb7ba5bb72062214166e26f61fb7140032e149c5c4e0d4c",
+    "duration": 16.304
+  },
+  {
+    "path": "samples/54_2.ogg",
+    "midi": 54,
+    "layer": 2,
+    "rootHz": 184.41771673,
+    "nominalHz": 184.99721136,
+    "correctionCents": 5.4315,
+    "sha256": "ad747acd56378adcc952afec3d0bee585b948cabb038038bebe4759d3032b588",
+    "duration": 15.993
+  },
+  {
+    "path": "samples/57_2.ogg",
+    "midi": 57,
+    "layer": 2,
+    "rootHz": 220.10481368,
+    "nominalHz": 220.0,
+    "correctionCents": -0.8246,
+    "sha256": "f7cee3dc6b1512b90cd6a6d2c8d82633a95eff63c829f509877881284df63723",
+    "duration": 15.756
+  },
+  {
+    "path": "samples/60_2.ogg",
+    "midi": 60,
+    "layer": 2,
+    "rootHz": 261.4656273,
+    "nominalHz": 261.6255653,
+    "correctionCents": 1.0587,
+    "sha256": "a955223bc1b729a3e0f237cb0e7fa1f909706c2e4f3df74d8f87cc2030737419",
+    "duration": 15.823
+  },
+  {
+    "path": "samples/63_2.ogg",
+    "midi": 63,
+    "layer": 2,
+    "rootHz": 311.33581719,
+    "nominalHz": 311.12698372,
+    "correctionCents": -1.1616,
+    "sha256": "a62635aee494bc5549fbc08bd14f33f8a804579faee9aca65abb21cc10fe8287",
+    "duration": 14.962
+  },
+  {
+    "path": "samples/66_2.ogg",
+    "midi": 66,
+    "layer": 2,
+    "rootHz": 369.33431406,
+    "nominalHz": 369.99442271,
+    "correctionCents": 3.0915,
+    "sha256": "ce488cbb01c31a24f9f2c8f3fa57a65c72f0fc79a8bb80aebc976accb175630c",
+    "duration": 14.715
+  },
+  {
+    "path": "samples/69_2.ogg",
+    "midi": 69,
+    "layer": 2,
+    "rootHz": 440.11758779,
+    "nominalHz": 440.0,
+    "correctionCents": -0.4626,
+    "sha256": "fe345c2daf9cbc4c427ff82020f67ccdaa904f86f97fbe61321ebe5a07958da5",
+    "duration": 14.3
+  },
+  {
+    "path": "samples/72_2.ogg",
+    "midi": 72,
+    "layer": 2,
+    "rootHz": 524.38326414,
+    "nominalHz": 523.2511306,
+    "correctionCents": -3.7417,
+    "sha256": "c1a88e42e403738bf68295a4259a5803615253c3ff46034d7880ca8e08731ac9",
+    "duration": 14.731
+  },
+  {
+    "path": "samples/75_2.ogg",
+    "midi": 75,
+    "layer": 2,
+    "rootHz": 623.23038472,
+    "nominalHz": 622.25396744,
+    "correctionCents": -2.7145,
+    "sha256": "6f16dd1b1a074e992d878879b509c46f42c01f9c8005c6011b625fcc731a48d1",
+    "duration": 13.282
+  },
+  {
+    "path": "samples/78_2.ogg",
+    "midi": 78,
+    "layer": 2,
+    "rootHz": 741.47526058,
+    "nominalHz": 739.98884542,
+    "correctionCents": -3.474,
+    "sha256": "e9aec49ddc1e386aabf876c146af6d19bb080cb734b80423c9e36389f5317cc8",
+    "duration": 12.005
+  },
+  {
+    "path": "samples/81_2.ogg",
+    "midi": 81,
+    "layer": 2,
+    "rootHz": 882.46318291,
+    "nominalHz": 880.0,
+    "correctionCents": -4.8391,
+    "sha256": "5ef710a0251c5bdbeae8692628ba158ef92847688313c8ce2dc70cffd71a411d",
+    "duration": 10.281
+  },
+  {
+    "path": "samples/84_2.ogg",
+    "midi": 84,
+    "layer": 2,
+    "rootHz": 1050.9623337,
+    "nominalHz": 1046.5022612,
+    "correctionCents": -7.3626,
+    "sha256": "d46682585a387d82bf6c375d94abc51635276c5dbacc490d5ea67ded608b37bc",
+    "duration": 6.169
+  },
+  {
+    "path": "samples/87_2.ogg",
+    "midi": 87,
+    "layer": 2,
+    "rootHz": 1252.33232828,
+    "nominalHz": 1244.50793489,
+    "correctionCents": -10.8504,
+    "sha256": "0e226e7ab17e95c3b243e322e73c61f7c928c5742084d6e97ae4d3e2fa47dbe9",
+    "duration": 6.811
+  },
+  {
+    "path": "samples/90_2.ogg",
+    "midi": 90,
+    "layer": 2,
+    "rootHz": 1491.63901534,
+    "nominalHz": 1479.97769085,
+    "correctionCents": -13.5876,
+    "sha256": "02622ec007a3805b822299e7014d9e0475a4521a35286c4b63ea7ab871cc49ca",
+    "duration": 5.796
+  },
+  {
+    "path": "samples/93_2.ogg",
+    "midi": 93,
+    "layer": 2,
+    "rootHz": 1771.23698775,
+    "nominalHz": 1760.0,
+    "correctionCents": -11.0182,
+    "sha256": "85ec72dbc8a34db8bd04f4e639a9aed53b682cd4e4aa37665123d480baa270a7",
+    "duration": 6.837
+  },
+  {
+    "path": "samples/96_2.ogg",
+    "midi": 96,
+    "layer": 2,
+    "rootHz": 2119.12652297,
+    "nominalHz": 2093.0045224,
+    "correctionCents": -21.4732,
+    "sha256": "e8812c44a3a11dbe51a9c54ff6ff4b43ddc2a3260fb41314aa2f9bc934e5a2a3",
+    "duration": 4.22
+  },
+  {
+    "path": "samples/99_2.ogg",
+    "midi": 99,
+    "layer": 2,
+    "rootHz": 2515.69883282,
+    "nominalHz": 2489.01586978,
+    "correctionCents": -18.4605,
+    "sha256": "93f7609b0539de53bf96aed1383c1b49f89b1a3f74bf4b97558fded3e0352913",
+    "duration": 5.126
+  },
+  {
+    "path": "samples/102_2.ogg",
+    "midi": 102,
+    "layer": 2,
+    "rootHz": 3006.37335571,
+    "nominalHz": 2959.95538169,
+    "correctionCents": -26.9385,
+    "sha256": "4674fd2c9c9625bb6a4ed5c204c4212ecb711b86c1e17378d9a93c8fc706d6d6",
+    "duration": 4.764
+  },
+  {
+    "path": "samples/105_2.ogg",
+    "midi": 105,
+    "layer": 2,
+    "rootHz": 3598.0720754,
+    "nominalHz": 3520.0,
+    "correctionCents": -37.9784,
+    "sha256": "97d0e6dc817b0846f5ce71e4c82495ebadb1b9edb89f4bf08799dd2ee1646790",
+    "duration": 3.56
+  },
+  {
+    "path": "samples/108_2.ogg",
+    "midi": 108,
+    "layer": 2,
+    "rootHz": 4432.10427466,
+    "nominalHz": 4186.00904481,
+    "correctionCents": -98.8997,
+    "sha256": "d00ce20e7ffc72755500c44ee189dcc07ff69f029090173b74adb5aeea1f5e3f",
+    "duration": 4.016
+  }
+]

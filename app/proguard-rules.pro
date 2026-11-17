@@ -1,0 +1,2 @@
+-keep class com.arthur.easypiano.NativeAudio { *; }
+-keepclasseswithmembernames,includedescriptorclasses class * { native <methods>; }

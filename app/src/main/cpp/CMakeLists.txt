@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(easypiano LANGUAGES C CXX)
+find_package(oboe REQUIRED CONFIG)
+add_library(easypiano SHARED AudioEngine.cpp third_party/stb_vorbis.c)
+target_compile_features(easypiano PRIVATE cxx_std_17)
+target_link_libraries(easypiano oboe::oboe android log)
+target_link_options(easypiano PRIVATE "-Wl,-z,max-page-size=16384")
